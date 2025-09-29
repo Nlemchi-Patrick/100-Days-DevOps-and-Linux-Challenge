@@ -1,4 +1,4 @@
-The 100 days DevOps and Linux Configuration Activities Done By Me And My Collaborators In Stratos Data Center Located Somewhere in North America.
+Here Is The 100 days DevOps and Linux Configuration Activities Done By Me And My Collaborators In Stratos Data Center Located Somewhere in North America.
 
 It's a pleasure having you here. I Appreciate your Time to Visit This Repository. 
 
